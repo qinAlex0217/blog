@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://qaxlove.gitee.io/link/index.html</loc>
+    
+    <lastmod>2020-10-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qaxlove.gitee.io/tags/index.html</loc>
+    
+    <lastmod>2020-10-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qaxlove.gitee.io/about/index.html</loc>
+    
+    <lastmod>2020-10-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qaxlove.gitee.io/archives/index.html</loc>
+    
+    <lastmod>2020-10-16</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://qaxlove.gitee.io/2020/10/09/%E5%BF%83%E7%83%A6/</loc>
     
     <lastmod>2020-10-08</lastmod>
@@ -10,13 +38,6 @@
   
   <url>
     <loc>https://qaxlove.gitee.io/2020/10/08/hg/</loc>
-    
-    <lastmod>2020-10-08</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://qaxlove.gitee.io/tags/index.html</loc>
     
     <lastmod>2020-10-08</lastmod>
     
@@ -32,7 +53,7 @@
 
   <url>
     <loc>https://qaxlove.gitee.io/</loc>
-    <lastmod>2020-10-15</lastmod>
+    <lastmod>2020-10-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -40,7 +61,7 @@
   
   <url>
     <loc>https://qaxlove.gitee.io/tags/%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2020-10-15</lastmod>
+    <lastmod>2020-10-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
