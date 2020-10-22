@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://qaxlove.gitee.io/music/index.html</loc>
+    
+    <lastmod>2020-10-22</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://qaxlove.gitee.io/jiaohuan/index.html</loc>
     
     <lastmod>2020-10-18</lastmod>
@@ -24,13 +31,6 @@
   
   <url>
     <loc>https://qaxlove.gitee.io/movies/index.html</loc>
-    
-    <lastmod>2020-10-17</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://qaxlove.gitee.io/music/index.html</loc>
     
     <lastmod>2020-10-17</lastmod>
     
@@ -74,7 +74,7 @@
 
   <url>
     <loc>https://qaxlove.gitee.io/</loc>
-    <lastmod>2020-10-20</lastmod>
+    <lastmod>2020-10-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -82,7 +82,7 @@
   
   <url>
     <loc>https://qaxlove.gitee.io/tags/%E7%83%AD%E7%88%B1/</loc>
-    <lastmod>2020-10-20</lastmod>
+    <lastmod>2020-10-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
