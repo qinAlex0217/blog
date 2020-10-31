@@ -2,37 +2,86 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://qaxlove.gitee.io/2020/10/31/2020-10-31-4/</loc>
+    <loc>https://qaxlove.gitee.io/about/index.html</loc>
     
-    <lastmod>2020-10-30</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://qaxlove.gitee.io/2020/10/31/2020-10-31-3/</loc>
-    
-    <lastmod>2020-10-30</lastmod>
+    <lastmod>2020-10-31</lastmod>
     
   </url>
   
   <url>
-    <loc>https://qaxlove.gitee.io/2020/10/31/2020-10-31-2/</loc>
+    <loc>https://qaxlove.gitee.io/archives/index.html</loc>
     
-    <lastmod>2020-10-30</lastmod>
+    <lastmod>2020-10-31</lastmod>
     
   </url>
   
   <url>
-    <loc>https://qaxlove.gitee.io/2020/10/31/2020-10-31-1/</loc>
+    <loc>https://qaxlove.gitee.io/bangumis/index.html</loc>
     
-    <lastmod>2020-10-30</lastmod>
+    <lastmod>2020-10-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qaxlove.gitee.io/tags/index.html</loc>
+    
+    <lastmod>2020-10-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qaxlove.gitee.io/categories/index.html</loc>
+    
+    <lastmod>2020-10-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qaxlove.gitee.io/movies/index.html</loc>
+    
+    <lastmod>2020-10-31</lastmod>
     
   </url>
   
   <url>
     <loc>https://qaxlove.gitee.io/music/index.html</loc>
     
-    <lastmod>2020-10-29</lastmod>
+    <lastmod>2020-10-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qaxlove.gitee.io/2020/10/18/201018/</loc>
+    
+    <lastmod>2020-10-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qaxlove.gitee.io/2020/10/31/2020-10-31-3/</loc>
+    
+    <lastmod>2020-10-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qaxlove.gitee.io/2020/10/31/2020-10-31-1/</loc>
+    
+    <lastmod>2020-10-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qaxlove.gitee.io/2020/10/31/2020-10-31-2/</loc>
+    
+    <lastmod>2020-10-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qaxlove.gitee.io/2020/10/31/2020-10-31-4/</loc>
+    
+    <lastmod>2020-10-30</lastmod>
     
   </url>
   
@@ -44,58 +93,9 @@
   </url>
   
   <url>
-    <loc>https://qaxlove.gitee.io/2020/10/18/201018/</loc>
-    
-    <lastmod>2020-10-17</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://qaxlove.gitee.io/bangumis/index.html</loc>
-    
-    <lastmod>2020-10-17</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://qaxlove.gitee.io/movies/index.html</loc>
-    
-    <lastmod>2020-10-17</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://qaxlove.gitee.io/link/index.html</loc>
     
     <lastmod>2020-10-16</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://qaxlove.gitee.io/tags/index.html</loc>
-    
-    <lastmod>2020-10-16</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://qaxlove.gitee.io/about/index.html</loc>
-    
-    <lastmod>2020-10-16</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://qaxlove.gitee.io/archives/index.html</loc>
-    
-    <lastmod>2020-10-16</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://qaxlove.gitee.io/categories/index.html</loc>
-    
-    <lastmod>2020-10-08</lastmod>
     
   </url>
   
@@ -110,6 +110,20 @@
   
   <url>
     <loc>https://qaxlove.gitee.io/tags/%E7%83%AD%E7%88%B1/</loc>
+    <lastmod>2020-10-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://qaxlove.gitee.io/tags/%E7%94%B5%E5%BD%B1/</loc>
+    <lastmod>2020-10-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://qaxlove.gitee.io/tags/%E9%9F%B3%E4%B9%90/</loc>
     <lastmod>2020-10-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
