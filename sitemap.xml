@@ -2,51 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://qaxlove.gitee.io/jiaohuan/index.html</loc>
+    <loc>https://qaxlove.gitee.io/posts/10404</loc>
     
-    <lastmod>2020-11-01</lastmod>
+    <lastmod>2020-11-06</lastmod>
     
   </url>
   
   <url>
-    <loc>https://qaxlove.gitee.io/2020/11/01/hello%EF%BC%81world%EF%BC%81/</loc>
+    <loc>https://qaxlove.gitee.io/posts/26357</loc>
     
-    <lastmod>2020-11-01</lastmod>
+    <lastmod>2020-11-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qaxlove.gitee.io/posts/42812</loc>
+    
+    <lastmod>2020-11-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qaxlove.gitee.io/posts/16602</loc>
+    
+    <lastmod>2020-11-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qaxlove.gitee.io/posts/51955</loc>
+    
+    <lastmod>2020-11-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qaxlove.gitee.io/posts/59641</loc>
+    
+    <lastmod>2020-11-06</lastmod>
     
   </url>
   
   <url>
     <loc>https://qaxlove.gitee.io/music/index.html</loc>
     
+    <lastmod>2020-11-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qaxlove.gitee.io/jiaohuan/index.html</loc>
+    
     <lastmod>2020-11-01</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://qaxlove.gitee.io/2020/10/31/2020-10-31-4/</loc>
-    
-    <lastmod>2020-11-01</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://qaxlove.gitee.io/2020/10/31/2020-10-31-3/</loc>
-    
-    <lastmod>2020-10-31</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://qaxlove.gitee.io/2020/10/31/2020-10-31-2/</loc>
-    
-    <lastmod>2020-10-31</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://qaxlove.gitee.io/2020/10/31/2020-10-31-1/</loc>
-    
-    <lastmod>2020-10-31</lastmod>
     
   </url>
   
@@ -93,13 +100,6 @@
   </url>
   
   <url>
-    <loc>https://qaxlove.gitee.io/2020/10/18/201018/</loc>
-    
-    <lastmod>2020-10-31</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://qaxlove.gitee.io/link/index.html</loc>
     
     <lastmod>2020-10-16</lastmod>
@@ -109,7 +109,7 @@
 
   <url>
     <loc>https://qaxlove.gitee.io/</loc>
-    <lastmod>2020-11-01</lastmod>
+    <lastmod>2020-11-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -117,28 +117,28 @@
   
   <url>
     <loc>https://qaxlove.gitee.io/tags/%E7%83%AD%E7%88%B1/</loc>
-    <lastmod>2020-11-01</lastmod>
+    <lastmod>2020-11-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://qaxlove.gitee.io/tags/%E7%94%B5%E5%BD%B1/</loc>
-    <lastmod>2020-11-01</lastmod>
+    <lastmod>2020-11-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://qaxlove.gitee.io/tags/%E9%9F%B3%E4%B9%90/</loc>
-    <lastmod>2020-11-01</lastmod>
+    <lastmod>2020-11-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://qaxlove.gitee.io/tags/%E5%8A%A0%E6%B2%B9/</loc>
-    <lastmod>2020-11-01</lastmod>
+    <lastmod>2020-11-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -147,21 +147,21 @@
   
   <url>
     <loc>https://qaxlove.gitee.io/categories/%E8%A7%82%E5%90%8E%E6%84%9F/</loc>
-    <lastmod>2020-11-01</lastmod>
+    <lastmod>2020-11-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://qaxlove.gitee.io/categories/%E5%88%86%E4%BA%AB%E7%83%AD%E7%88%B1/</loc>
-    <lastmod>2020-11-01</lastmod>
+    <lastmod>2020-11-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://qaxlove.gitee.io/categories/flag/</loc>
-    <lastmod>2020-11-01</lastmod>
+    <lastmod>2020-11-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

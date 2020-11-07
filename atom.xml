@@ -6,7 +6,7 @@
   <link href="https://qaxlove.gitee.io/atom.xml" rel="self"/>
   
   <link href="https://qaxlove.gitee.io/"/>
-  <updated>2020-11-01T06:44:22.676Z</updated>
+  <updated>2020-11-06T23:55:31.543Z</updated>
   <id>https://qaxlove.gitee.io/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>hello！ world！</title>
-    <link href="https://qaxlove.gitee.io/2020/11/01/hello%EF%BC%81world%EF%BC%81/"/>
-    <id>https://qaxlove.gitee.io/2020/11/01/hello%EF%BC%81world%EF%BC%81/</id>
+    <link href="https://qaxlove.gitee.io/posts/42812"/>
+    <id>https://qaxlove.gitee.io/posts/42812</id>
     <published>2020-11-01T05:46:06.000Z</published>
-    <updated>2020-11-01T06:44:22.676Z</updated>
+    <updated>2020-11-06T23:55:31.543Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\qaxlove\assets\css\APlayer.min.css"><script src="\qaxlove\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
@@ -40,10 +40,10 @@
   
   <entry>
     <title>保证书</title>
-    <link href="https://qaxlove.gitee.io/2020/10/31/2020-10-31-4/"/>
-    <id>https://qaxlove.gitee.io/2020/10/31/2020-10-31-4/</id>
+    <link href="https://qaxlove.gitee.io/posts/10404"/>
+    <id>https://qaxlove.gitee.io/posts/10404</id>
     <published>2020-10-30T23:35:33.000Z</published>
-    <updated>2020-11-01T03:43:02.346Z</updated>
+    <updated>2020-11-06T23:55:31.549Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\qaxlove\assets\css\APlayer.min.css"><script src="\qaxlove\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>我的目标：</p><h1 id="深圳高中！！！！！"><a href="#深圳高中！！！！！" class="headerlink" title="深圳高中！！！！！"></a>深圳高中！！！！！</h1><h1 id="武汉大学！！！！！"><a href="#武汉大学！！！！！" class="headerlink" title="武汉大学！！！！！"></a>武汉大学！！！！！</h1><p>现在初一，12岁，我要加油！</p>]]></content>
     
@@ -61,10 +61,10 @@
   
   <entry>
     <title>说唱新世代</title>
-    <link href="https://qaxlove.gitee.io/2020/10/31/2020-10-31-3/"/>
-    <id>https://qaxlove.gitee.io/2020/10/31/2020-10-31-3/</id>
+    <link href="https://qaxlove.gitee.io/posts/26357"/>
+    <id>https://qaxlove.gitee.io/posts/26357</id>
     <published>2020-10-30T23:34:09.000Z</published>
-    <updated>2020-10-31T03:35:15.567Z</updated>
+    <updated>2020-11-06T23:55:31.546Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\qaxlove\assets\css\APlayer.min.css"><script src="\qaxlove\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
     
@@ -85,10 +85,10 @@
   
   <entry>
     <title>我喜欢的音乐</title>
-    <link href="https://qaxlove.gitee.io/2020/10/31/2020-10-31-2/"/>
-    <id>https://qaxlove.gitee.io/2020/10/31/2020-10-31-2/</id>
+    <link href="https://qaxlove.gitee.io/posts/16602"/>
+    <id>https://qaxlove.gitee.io/posts/16602</id>
     <published>2020-10-30T23:33:01.000Z</published>
-    <updated>2020-10-31T03:34:56.048Z</updated>
+    <updated>2020-11-06T23:55:31.540Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\qaxlove\assets\css\APlayer.min.css"><script src="\qaxlove\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
     
@@ -109,10 +109,10 @@
   
   <entry>
     <title>我看过的电影</title>
-    <link href="https://qaxlove.gitee.io/2020/10/31/2020-10-31-1/"/>
-    <id>https://qaxlove.gitee.io/2020/10/31/2020-10-31-1/</id>
+    <link href="https://qaxlove.gitee.io/posts/51955"/>
+    <id>https://qaxlove.gitee.io/posts/51955</id>
     <published>2020-10-30T23:31:46.000Z</published>
-    <updated>2020-10-31T03:33:40.893Z</updated>
+    <updated>2020-11-06T23:55:31.537Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\qaxlove\assets\css\APlayer.min.css"><script src="\qaxlove\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
     
@@ -133,10 +133,10 @@
   
   <entry>
     <title>社会主义核心价值观</title>
-    <link href="https://qaxlove.gitee.io/2020/10/18/201018/"/>
-    <id>https://qaxlove.gitee.io/2020/10/18/201018/</id>
+    <link href="https://qaxlove.gitee.io/posts/59641"/>
+    <id>https://qaxlove.gitee.io/posts/59641</id>
     <published>2020-10-17T23:07:06.000Z</published>
-    <updated>2020-10-31T01:11:27.021Z</updated>
+    <updated>2020-11-06T23:55:31.527Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\qaxlove\assets\css\APlayer.min.css"><script src="\qaxlove\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="富强民主文明和谐"><a href="#富强民主文明和谐" class="headerlink" title="富强民主文明和谐"></a>富强民主文明和谐</h2><h2 id="自由平等公正法治"><a href="#自由平等公正法治" class="headerlink" title="自由平等公正法治"></a>自由平等公正法治</h2><h2 id="爱国敬业诚信友善"><a href="#爱国敬业诚信友善" class="headerlink" title="爱国敬业诚信友善"></a>爱国敬业诚信友善</h2>]]></content>
     
