@@ -3,11 +3,11 @@
   <title>秦奥祥</title>
   
   <subtitle>加油</subtitle>
-  <link href="https://qaxlove.gitee.io/atom.xml" rel="self"/>
+  <link href="https://gitee.com/qaxlove/qaxlove.git/atom.xml" rel="self"/>
   
-  <link href="https://qaxlove.gitee.io/"/>
+  <link href="https://gitee.com/qaxlove/qaxlove.git/"/>
   <updated>2020-11-06T23:55:31.543Z</updated>
-  <id>https://qaxlove.gitee.io/</id>
+  <id>https://gitee.com/qaxlove/qaxlove.git/</id>
   
   <author>
     <name>秦奥祥</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>hello！ world！</title>
-    <link href="https://qaxlove.gitee.io/posts/42812"/>
-    <id>https://qaxlove.gitee.io/posts/42812</id>
+    <link href="https://gitee.com/qaxlove/qaxlove.git/posts/42812"/>
+    <id>https://gitee.com/qaxlove/qaxlove.git/posts/42812</id>
     <published>2020-11-01T05:46:06.000Z</published>
     <updated>2020-11-06T23:55:31.543Z</updated>
     
@@ -34,14 +34,14 @@
     
     
     
-    <category term="热爱" scheme="https://qaxlove.gitee.io/tags/%E7%83%AD%E7%88%B1/"/>
+    <category term="热爱" scheme="https://gitee.com/qaxlove/qaxlove.git/tags/%E7%83%AD%E7%88%B1/"/>
     
   </entry>
   
   <entry>
     <title>誓言</title>
-    <link href="https://qaxlove.gitee.io/posts/10404"/>
-    <id>https://qaxlove.gitee.io/posts/10404</id>
+    <link href="https://gitee.com/qaxlove/qaxlove.git/posts/10404"/>
+    <id>https://gitee.com/qaxlove/qaxlove.git/posts/10404</id>
     <published>2020-10-30T23:35:33.000Z</published>
     <updated>2020-11-07T04:05:23.793Z</updated>
     
@@ -52,17 +52,17 @@
     
     
     
-    <category term="flag" scheme="https://qaxlove.gitee.io/categories/flag/"/>
+    <category term="flag" scheme="https://gitee.com/qaxlove/qaxlove.git/categories/flag/"/>
     
     
-    <category term="加油" scheme="https://qaxlove.gitee.io/tags/%E5%8A%A0%E6%B2%B9/"/>
+    <category term="加油" scheme="https://gitee.com/qaxlove/qaxlove.git/tags/%E5%8A%A0%E6%B2%B9/"/>
     
   </entry>
   
   <entry>
     <title>说唱新世代</title>
-    <link href="https://qaxlove.gitee.io/posts/26357"/>
-    <id>https://qaxlove.gitee.io/posts/26357</id>
+    <link href="https://gitee.com/qaxlove/qaxlove.git/posts/26357"/>
+    <id>https://gitee.com/qaxlove/qaxlove.git/posts/26357</id>
     <published>2020-10-30T23:34:09.000Z</published>
     <updated>2020-11-06T23:55:31.546Z</updated>
     
@@ -76,17 +76,17 @@
     
     
     
-    <category term="分享热爱" scheme="https://qaxlove.gitee.io/categories/%E5%88%86%E4%BA%AB%E7%83%AD%E7%88%B1/"/>
+    <category term="分享热爱" scheme="https://gitee.com/qaxlove/qaxlove.git/categories/%E5%88%86%E4%BA%AB%E7%83%AD%E7%88%B1/"/>
     
     
-    <category term="音乐" scheme="https://qaxlove.gitee.io/tags/%E9%9F%B3%E4%B9%90/"/>
+    <category term="音乐" scheme="https://gitee.com/qaxlove/qaxlove.git/tags/%E9%9F%B3%E4%B9%90/"/>
     
   </entry>
   
   <entry>
     <title>我喜欢的音乐</title>
-    <link href="https://qaxlove.gitee.io/posts/16602"/>
-    <id>https://qaxlove.gitee.io/posts/16602</id>
+    <link href="https://gitee.com/qaxlove/qaxlove.git/posts/16602"/>
+    <id>https://gitee.com/qaxlove/qaxlove.git/posts/16602</id>
     <published>2020-10-30T23:33:01.000Z</published>
     <updated>2020-11-06T23:55:31.540Z</updated>
     
@@ -100,17 +100,17 @@
     
     
     
-    <category term="分享热爱" scheme="https://qaxlove.gitee.io/categories/%E5%88%86%E4%BA%AB%E7%83%AD%E7%88%B1/"/>
+    <category term="分享热爱" scheme="https://gitee.com/qaxlove/qaxlove.git/categories/%E5%88%86%E4%BA%AB%E7%83%AD%E7%88%B1/"/>
     
     
-    <category term="音乐" scheme="https://qaxlove.gitee.io/tags/%E9%9F%B3%E4%B9%90/"/>
+    <category term="音乐" scheme="https://gitee.com/qaxlove/qaxlove.git/tags/%E9%9F%B3%E4%B9%90/"/>
     
   </entry>
   
   <entry>
     <title>我看过的电影</title>
-    <link href="https://qaxlove.gitee.io/posts/51955"/>
-    <id>https://qaxlove.gitee.io/posts/51955</id>
+    <link href="https://gitee.com/qaxlove/qaxlove.git/posts/51955"/>
+    <id>https://gitee.com/qaxlove/qaxlove.git/posts/51955</id>
     <published>2020-10-30T23:31:46.000Z</published>
     <updated>2020-11-06T23:55:31.537Z</updated>
     
@@ -124,17 +124,17 @@
     
     
     
-    <category term="观后感" scheme="https://qaxlove.gitee.io/categories/%E8%A7%82%E5%90%8E%E6%84%9F/"/>
+    <category term="观后感" scheme="https://gitee.com/qaxlove/qaxlove.git/categories/%E8%A7%82%E5%90%8E%E6%84%9F/"/>
     
     
-    <category term="电影" scheme="https://qaxlove.gitee.io/tags/%E7%94%B5%E5%BD%B1/"/>
+    <category term="电影" scheme="https://gitee.com/qaxlove/qaxlove.git/tags/%E7%94%B5%E5%BD%B1/"/>
     
   </entry>
   
   <entry>
     <title>社会主义核心价值观</title>
-    <link href="https://qaxlove.gitee.io/posts/59641"/>
-    <id>https://qaxlove.gitee.io/posts/59641</id>
+    <link href="https://gitee.com/qaxlove/qaxlove.git/posts/59641"/>
+    <id>https://gitee.com/qaxlove/qaxlove.git/posts/59641</id>
     <published>2020-10-17T23:07:06.000Z</published>
     <updated>2020-11-06T23:55:31.527Z</updated>
     
@@ -149,7 +149,7 @@
     
     
     
-    <category term="热爱" scheme="https://qaxlove.gitee.io/tags/%E7%83%AD%E7%88%B1/"/>
+    <category term="热爱" scheme="https://gitee.com/qaxlove/qaxlove.git/tags/%E7%83%AD%E7%88%B1/"/>
     
   </entry>
   
